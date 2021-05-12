@@ -1,74 +1,78 @@
 {
   "movies": [
     {
-
       "id": 1,
       "title": "A Woman Under the Influence",
-      "thumbnail": "/A WOMAN UNDER THE INFLUENCE",
+      "thumbnail": "db/A WOMAN UNDER THE INFLUENCE.jpeg",
       "preview": "https://www.youtube.com/watch?v=d5O7ujg3VQU",
-      "rating": "[]", 
+      "rating": "[]",
       "review": "[]",
       "year": "1974",
       "director": "John Cassavetes",
       "genre": "drama"
-      },
-      {
-        "id": 2,
-        "title": "A Serious Man",
-        "thumbnail": "tk",
-        "preview": "https://www.youtube.com/watch?v=mDKHWRbK2_Q",
-        "rating": "[]", 
-        "review": "[]",
-        "year": "2009",
-        "director": "Joel Coen and Ethan Coen",
-        "genre": "comedy"
-        },
-        {
-          "id": 3,
-          "title": "The Rider",
-          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO93nERhrQ0zqzrh-XK6hzzFfqokp76sTlrQHhLl_3EL8Gp6pu",
-          "preview": "https://www.youtube.com/watch?v=AlrWRttLTkg",
-          "rating": "[]", 
-          "review": "[]",
-          "year": "2018",
-          "director": "Chloé Zhao",
-          "genre": "drama"
-          },
-          {
-            "id": 4,
-            "title": "Mandy",
-            "thumbnail": "",
-            "preview": "",
-            "rating": "[]",
-            "review": "['it has been 3 years and i am still not over this movie']",
-            "year": 2018,
-            "director": "Panos Cosmatos",
-            "genre": "trippy horror"
-            },
-          {
-            "id": 5,
-            "title": "Con Air",
-            "thumbnail": "",
-            "preview": "",
-            "rating": "[]",
-            "review": "[]",
-            "year": 1997,
-            "director": "Simon West",
-            "genre": "big dumb action"
-            },
-          {
-            "id": 6,
-            "title": "Raising Arizona",
-            "thumbnail": "",
-            "preview": "",
-            "rating": "[]",
-            "review": "[]",
-            "year": 1987,
-            "director": "Joel and Ethan Coen",
-            "genre": "heartwarming kid-nap comedy"
-            }
-      
-      
+    },
+    {
+      "id": 2,
+      "title": "A Serious Man",
+      "thumbnail": "db/A SERIOUS MAN.jpeg",
+      "preview": "https://www.youtube.com/watch?v=mDKHWRbK2_Q",
+      "rating": "[]",
+      "review": "[]",
+      "year": "2009",
+      "director": "Joel Coen and Ethan Coen",
+      "genre": "comedy"
+    },
+    {
+      "id": 3,
+      "title": "The Rider",
+      "thumbnail": "db/THE RIDER.jpeg",
+      "preview": "https://www.youtube.com/watch?v=AlrWRttLTkg",
+      "rating": "[]",
+      "review": "[]",
+      "year": "2018",
+      "director": "Chloé Zhao",
+      "genre": "drama"
+    },
+    {
+      "id": 4,
+      "title": "Mandy",
+      "thumbnail": "",
+      "preview": "",
+      "rating": "[]",
+      "review": "['it has been 3 years and i am still not over this movie']",
+      "year": 2018,
+      "director": "Panos Cosmatos",
+      "genre": "horror"
+    },
+    {
+      "id": 5,
+      "title": "Con Air",
+      "thumbnail": "",
+      "preview": "",
+      "rating": "[]",
+      "review": "[]",
+      "year": 1997,
+      "director": "Simon West",
+      "genre": "action"
+    },
+    {
+      "id": 6,
+      "title": "Raising Arizona",
+      "thumbnail": "",
+      "preview": "",
+      "rating": "[]",
+      "review": "[]",
+      "year": 1987,
+      "director": "Joel and Ethan Coen",
+      "genre": "comedy"
+    },
+    {
+      "director": "",
+      "title": "",
+      "year": "",
+      "genre": "",
+      "review": "",
+      "id": 7
+    }
   ]
 }
-
