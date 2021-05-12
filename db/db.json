@@ -42,7 +42,7 @@
       "review": "['it has been 3 years and i am still not over this movie']",
       "year": 2018,
       "director": "Panos Cosmatos",
-      "genre": "trippy horror"
+      "genre": "horror"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "review": "[]",
       "year": 1997,
       "director": "Simon West",
-      "genre": "big dumb action"
+      "genre": "action"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "review": "[]",
       "year": 1987,
       "director": "Joel and Ethan Coen",
-      "genre": "heartwarming kid-nap comedy"
+      "genre": "comedy"
     },
     {
       "director": "Bong Joon-ho",
