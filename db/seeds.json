@@ -11,64 +11,70 @@
       "year": "1974",
       "director": "John Cassavetes",
       "genre": "drama"
-      },
-      {
-        "id": 2,
-        "title": "A Serious Man",
-        "thumbnail": "A_Serious_Man_(2009).png",
-        "preview": "https://www.youtube.com/watch?v=mDKHWRbK2_Q",
-        "rating": "[]", 
-        "review": "[]",
-        "year": "2009",
-        "director": "Joel Coen and Ethan Coen",
-        "genre": "comedy"
-        },
-        {
-          "id": 3,
-          "title": "The Rider",
-          "thumbnail": "the rider.jpeg",
-          "preview": "https://www.youtube.com/watch?v=AlrWRttLTkg",
-          "rating": "[]", 
-          "review": "[]",
-          "year": "2018",
-          "director": "Chloé Zhao",
-          "genre": "drama"
-          },
-          {
-            "id": 4,
-            "title": "Mandy",
-            "thumbnail": "Mandy_(2018_film) (1).png",
-            "preview": "",
-            "rating": "[]",
-            "review": "['it has been 3 years and i am still not over this movie']",
-            "year": 2018,
-            "director": "Panos Cosmatos",
-            "genre": "trippy horror"
-            },
-          {
-            "id": 5,
-            "title": "Con Air",
-            "thumbnail": "Conairinternational.jpeg",
-            "preview": "",
-            "rating": "[]",
-            "review": "[]",
-            "year": 1997,
-            "director": "Simon West",
-            "genre": "big dumb action"
-            },
-          {
-            "id": 6,
-            "title": "Raising Arizona",
-            "thumbnail": "Raising-Arizona-Poster.jpeg",
-            "preview": "",
-            "rating": "[]",
-            "review": "[]",
-            "year": 1987,
-            "director": "Joel and Ethan Coen",
-            "genre": "heartwarming kid-nap comedy"
-            }
-      
-      
+    },
+    {
+      "id": 2,
+      "title": "A Serious Man",
+      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/A_Serious_Man_(2009).png",
+      "preview": "https://www.youtube.com/watch?v=mDKHWRbK2_Q",
+      "rating": "[]",
+      "review": "[]",
+      "year": "2009",
+      "director": "Joel Coen and Ethan Coen",
+      "genre": "comedy"
+    },
+    {
+      "id": 3,
+      "title": "The Rider",
+      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/the rider.jpeg",
+      "preview": "https://www.youtube.com/watch?v=AlrWRttLTkg",
+      "rating": "[]",
+      "review": "[]",
+      "year": "2018",
+      "director": "Chloé Zhao",
+      "genre": "drama"
+    },
+    {
+      "id": 4,
+      "title": "Mandy",
+      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/Mandy_(2018_film) (1).png",
+      "preview": "",
+      "rating": "[]",
+      "review": "['it has been 3 years and i am still not over this movie']",
+      "year": 2018,
+      "director": "Panos Cosmatos",
+      "genre": "horror"
+    },
+    {
+      "id": 5,
+      "title": "Con Air",
+      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/Conairinternational.jpeg",
+      "preview": "",
+      "rating": "[]",
+      "review": "[]",
+      "year": 1997,
+      "director": "Simon West",
+      "genre": "action"
+    },
+    {
+      "id": 6,
+      "title": "Raising Arizona",
+      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/Raising-Arizona-Poster.jpeg",
+      "preview": "",
+      "rating": "[]",
+      "review": "[]",
+      "year": 1987,
+      "director": "Joel and Ethan Coen",
+      "genre": "comedy"
+    },
+    {
+      "director": "Bong Joon-ho",
+      "title": "Parasite",
+      "year": "2019",
+      "genre": "thriller",
+      "review": "great!",
+      "id": 7
+    }
   ]
 }
 
