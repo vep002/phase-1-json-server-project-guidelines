@@ -4,7 +4,7 @@
 
       "id": 1,
       "title": "A Woman Under the Influence",
-      "thumbnail": "./images/A_Woman_Under_the_Influence_(1974_poster_-_retouched).jpg",
+      "thumbnail": "./src/A_Woman_Under_the_Influence_(1974_poster_-_retouched).jpg",
       "preview": "https://www.youtube.com/watch?v=d5O7ujg3VQU",
       "rating": "[]", 
       "review": "[]",
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "title": "A Serious Man",
-      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/A_Serious_Man_(2009).png",
+      "thumbnail": "./src/A_Serious_Man_(2009).png",
       "preview": "https://www.youtube.com/watch?v=mDKHWRbK2_Q",
       "rating": "[]",
       "review": "[]",
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "title": "The Rider",
-      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/the rider.jpeg",
+      "thumbnail": "./src/the rider.jpeg",
       "preview": "https://www.youtube.com/watch?v=AlrWRttLTkg",
       "rating": "[]",
       "review": "[]",
@@ -37,7 +37,7 @@
     {
       "id": 4,
       "title": "Mandy",
-      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/Mandy_(2018_film) (1).png",
+      "thumbnail": "./src/Mandy_(2018_film).png",
       "preview": "",
       "rating": "[]",
       "review": "['it has been 3 years and i am still not over this movie']",
@@ -48,7 +48,7 @@
     {
       "id": 5,
       "title": "Con Air",
-      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/Conairinternational.jpeg",
+      "thumbnail": "./src/Conairinternational.jpeg",
       "preview": "",
       "rating": "[]",
       "review": "[]",
@@ -59,22 +59,15 @@
     {
       "id": 6,
       "title": "Raising Arizona",
-      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/Raising-Arizona-Poster.jpeg",
+      "thumbnail": "./src/Raising-Arizona-Poster.jpeg",
       "preview": "",
       "rating": "[]",
       "review": "[]",
       "year": 1987,
       "director": "Joel and Ethan Coen",
       "genre": "comedy"
-    },
-    {
-      "director": "Bong Joon-ho",
-      "title": "Parasite",
-      "year": "2019",
-      "genre": "thriller",
-      "review": "great!",
-      "id": 7
     }
+   
   ]
 }
 
