@@ -1,18 +1,6 @@
 {
   "movies": [
     {
-
-      "id": 1,
-      "title": "A Woman Under the Influence",
-      "thumbnail": "./src/A_Woman_Under_the_Influence_(1974_poster_-_retouched).jpg",
-      "preview": "https://www.youtube.com/watch?v=d5O7ujg3VQU",
-      "rating": "[]", 
-      "review": "[]",
-      "year": "1974",
-      "director": "John Cassavetes",
-      "genre": "drama"
-    },
-    {
       "id": 2,
       "title": "A Serious Man",
       "thumbnail": "./src/A_Serious_Man_(2009).png",
@@ -67,7 +55,5 @@
       "director": "Joel and Ethan Coen",
       "genre": "comedy"
     }
-   
   ]
 }
-
