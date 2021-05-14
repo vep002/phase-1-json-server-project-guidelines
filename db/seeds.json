@@ -4,10 +4,9 @@
 
       "id": 1,
       "title": "A Woman Under the Influence",
-      "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/A_Woman_Under_the_Influence_(1974_poster_-_retouched).jpg",
-      "preview": "https://www.youtube.com/watch?v=d5O7ujg3VQU",
-      "rating": "[]", 
-      "review": "[]",
+      "search": "a+woman+under+the+influence+trailer",
+      "thumbnail": "./src/A_Woman_Under_the_Influence_(1974_poster_-_retouched).jpg",
+      "review": "A Woman Under the Influence gives us a woman whose influences only gradually reveal themselves. And as they do, they give us insights not only into one specific, brilliantly created, woman but into some of the problems of surviving in a society where very few people are fully liberated. -Roger Ebert", 
       "year": "1974",
       "director": "John Cassavetes",
       "genre": "drama"
@@ -15,10 +14,9 @@
       {
         "id": 2,
         "title": "A Serious Man",
-        "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/A_Serious_Man_(2009).png",
-        "preview": "https://www.youtube.com/watch?v=mDKHWRbK2_Q",
-        "rating": "[]", 
-        "review": "[]",
+        "search": "a+serious+man+trailer",
+        "thumbnail": "./src/A_Serious_Man_(2009).png",
+        "review": "We learn from the Book of Job: Man that is born of a woman is of few days, and full of trouble. Such a man is Larry Gopnik. -Roger Ebert", 
         "year": "2009",
         "director": "Joel Coen and Ethan Coen",
         "genre": "comedy"
@@ -26,10 +24,9 @@
         {
           "id": 3,
           "title": "The Rider",
-          "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/the rider.jpeg",
-          "preview": "https://www.youtube.com/watch?v=AlrWRttLTkg",
-          "rating": "[]", 
-          "review": "[]",
+          "search": "the+rider+trailer",
+          "thumbnail": "./src/the rider.jpeg",
+          "review": "The Rider is the best film I’ve seen so far in 2018 (with the caveat that there are many months to go, of course). It also feels like the announcement of a major artistic talent in Zhao. -David Sims", 
           "year": "2018",
           "director": "Chloé Zhao",
           "genre": "drama"
@@ -37,35 +34,32 @@
           {
             "id": 4,
             "title": "Mandy",
-            "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/Mandy_(2018_film) (1).png",
-            "preview": "",
-            "rating": "[]",
-            "review": "['it has been 3 years and i am still not over this movie']",
+            "search": "mandy+trailer",
+            "thumbnail": "./src/Mandy_(2018_film).png",
+            "review": "It’s a really difficult film to capture tonally and even narratively in a review, largely because it is such a stylish, visceral experience that it demands you give yourself over to it actively instead of passively analyzing it. -Roger Ebert",
             "year": 2018,
             "director": "Panos Cosmatos",
-            "genre": "trippy horror"
+            "genre": "horror"
             },
           {
             "id": 5,
             "title": "Con Air",
-            "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/Conairinternational.jpeg",
-            "preview": "",
-            "rating": "[]",
-            "review": "[]",
+            "search": "con+air+trailer",
+            "thumbnail": "./src/Conairinternational.jpeg",
+            "review": "Midway in Con Air,the Nicolas Cage character observes: 'Somehow they managed to get every creep and freak in the universe on this one plane.' That's the same thought I was having. -Roger Ebert",
             "year": 1997,
             "director": "Simon West",
-            "genre": "big dumb action"
+            "genre": "action"
             },
           {
             "id": 6,
             "title": "Raising Arizona",
-            "thumbnail": "/Users/victoriaperkins/Development/code/Mod1/phase1-project/backend/phase-1-json-server-project-guidelines/db/images/Raising-Arizona-Poster.jpeg",
-            "preview": "",
-            "rating": "[]",
-            "review": "[]",
+            "search": "raising+arizona+trailer",
+            "thumbnail": "./src/Raising-Arizona-Poster.jpeg",
+            "review": "I have a problem with movies where everybody talks as if they were reading out of an old novel about a bunch of would-be colorful characters. -Roger Ebert",
             "year": 1987,
             "director": "Joel and Ethan Coen",
-            "genre": "heartwarming kid-nap comedy"
+            "genre": "comedy"
             }
       
       
